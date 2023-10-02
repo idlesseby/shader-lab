@@ -42,4 +42,4 @@ function Model(props) {
   );
 }
 
-useGLTF.preload("/human.glb");
+useGLTF.preload("/Astronaut.glb");
